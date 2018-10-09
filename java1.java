@@ -15,5 +15,4 @@ public class TestScanner {
 		System.out.println("年龄："+age);
 		
 	}
-
 }
