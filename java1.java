@@ -10,6 +10,7 @@ public class TestScanner {
 		System.out.println("请输入年龄：");
 		int age = scanner.nextInt();
 		System.out.println("-----------------------------------");
+		System.out.println("-----------------------------------");
 		System.out.println("名字："+name);
 		System.out.println("爱好："+favor);
 		System.out.println("年龄："+age);
